@@ -1,0 +1,10 @@
+<body>
+  <div id="wrapper">
+    <h1>Dynamic Tag Input Suggestions</h1>
+    <p>Start typing the name of a popular video game to get some helpful suggestions.</p>
+
+    <div id="searchbar">
+      <input type="text" id="vidyagames" name="vidya">
+    </div>
+  </div><!-- @end #wrapper -->
+</body>
